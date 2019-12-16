@@ -1,2 +1,2 @@
-# rememberChristmas
-An interactive Simon's Says game
+# Remember Christmas
+A simon says turn by turn game
